@@ -1,0 +1,39 @@
+head {
+    font-size: 10px;
+}
+
+#main {
+    font-family:'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    text-align: center;
+    font-size: 1rem;
+    background-color: #f5f8f5;
+    color: #333;
+    padding: 2em 2em;
+    margin: 1em;
+    border-radius: 5px;
+}
+
+h1 {
+    font-size: 3rem;
+    margin: 0;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+#img-div {
+    padding: 10px;
+    background-color: #a59b8e;
+    margin: 0;
+}
+
+#img-caption {
+    padding: 0.5em;
+}
+
+#headline {
+    margin: 2em auto;
+}
